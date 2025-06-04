@@ -28,7 +28,7 @@ Hi, I'm Nitin Gond! This repository contains my DSA practice journey using **Jav
 
 ## 👨‍💻 My Profiles
 
-- 💻 [My LeetCode](https://leetcode.com/nitingond1001)
+- 💻 [My LeetCode](https://leetcode.com/nitin_11)
 - 💡 [My GeeksforGeeks](https://auth.geeksforgeeks.org/user/nitingond/practice)
 
 
