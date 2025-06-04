@@ -26,6 +26,12 @@ Hi, I'm Nitin Gond! This repository contains my DSA practice journey using **Jav
 - 🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - 🔗 [Strivers A2Z DSA Course](https://takeuforward.org)
 
+## 👨‍💻 My Profiles
+
+- 💻 [My LeetCode](https://leetcode.com/nitingond1001)
+- 💡 [My GeeksforGeeks](https://auth.geeksforgeeks.org/user/nitingond/practice)
+
+
 ## 🚀 Status
 
 This repo is a work in progress. I’m uploading solved problems daily in both Java and C++. Stay tuned and feel free to explore or contribute!
