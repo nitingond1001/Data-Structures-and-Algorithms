@@ -1,2 +1,31 @@
-# Data-Structures-and-Algorithms
-"My Data Structures &amp; Algorithms practice with clean code and topic-wise organization with Java and C++ programming language."
+# 🧠 Data Structures & Algorithms in Java & C++
+
+Hi, I'm Nitin Gond! This repository contains my DSA practice journey using **Java and C++**, organized topic-wise and language-wise for clarity and consistency.
+
+## ✅ Languages Used
+
+- 🟦 Java
+- 🟨 C++
+
+## 📁 Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Recursion & Backtracking
+- Sorting & Searching
+- Dynamic Programming
+- Greedy Algorithms
+- Hashing
+
+## 📚 Problem Sources
+
+- 🔗 [LeetCode](https://leetcode.com)
+- 🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- 🔗 [Strivers A2Z DSA Course](https://takeuforward.org)
+
+## 🚀 Status
+
+This repo is a work in progress. I’m uploading solved problems daily in both Java and C++. Stay tuned and feel free to explore or contribute!
